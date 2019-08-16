@@ -153,7 +153,7 @@ Your goal is to place the slider as close as possible to the target value. The c
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="About the Author!"/>
                                 <connections>
-                                    <segue destination="zhU-re-JmO" kind="presentation" modalTransitionStyle="crossDissolve" id="zdV-w7-1Te"/>
+                                    <segue destination="zhU-re-JmO" kind="presentation" modalTransitionStyle="partialCurl" id="zdV-w7-1Te"/>
                                 </connections>
                             </button>
                         </subviews>
